@@ -1,4 +1,4 @@
-# Oracle Next Education - Turma 5
+# ONE Oracle Next Education - Turma 5
 Cursos de HTML5 e CSS3
 
 ## [HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-crie-pagina-web)
@@ -25,3 +25,11 @@ Faça esse curso de HTML e CSS e:
 4. Use **estilos** para formulários, campos e tabelas;
 5. Entenda a **hierarquia** no CSS;
 6. Trabalhe com **transformações** e **transições**.
+
+## [HTML5 e CSS3 parte 4: avançando no CSS](https://cursos.alura.com.br/course/html5-css3-avancando-no-css)
+Faça esse curso de HTML e CSS e:
+1. **Importe** conteúdo externo na sua página HTML, como **fontes**, **vídeos** e **mapas**;
+2. Conheça **pseudo-classes** e **pseudo-elementos**;
+3. Use **seletores** de CSS **avançados**;
+4. Saiba como lidar com **opacidade** e **sombra**;
+5. Entenda sobre o **Viewport** e **design responsivo**.
