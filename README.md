@@ -1,4 +1,4 @@
-# ONE-T5-HTML5-e-CSS3
+# Oracle Next Education - Turma 5
 Cursos de HTML5 e CSS3
 
 ## [HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-crie-pagina-web)
